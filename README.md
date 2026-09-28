@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
