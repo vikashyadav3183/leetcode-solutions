@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -44,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
