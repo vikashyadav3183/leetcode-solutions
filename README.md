@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
