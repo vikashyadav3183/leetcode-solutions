@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -196,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
