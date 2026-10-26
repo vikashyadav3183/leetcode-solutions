@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,11 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
