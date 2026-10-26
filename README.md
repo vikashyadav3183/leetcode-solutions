@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
