@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0743-network-delay-time](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -202,12 +203,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0743-network-delay-time](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -283,4 +286,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
