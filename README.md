@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
 | ------- |
