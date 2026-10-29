@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [1791-find-center-of-star-graph](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 ## Shortest Path
 |  |
 | ------- |
