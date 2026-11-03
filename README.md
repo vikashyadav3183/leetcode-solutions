@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Heap (Priority Queue)
@@ -340,9 +343,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
