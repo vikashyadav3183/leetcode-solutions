@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/1436-destination-city) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/1436-destination-city) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1436-destination-city](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/1436-destination-city) |
 ## Linked List
 |  |
 | ------- |
