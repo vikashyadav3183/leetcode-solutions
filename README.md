@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/vikashyadav3183/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
